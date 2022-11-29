@@ -1,10 +1,7 @@
 # Praktikum 9: PHP Modular
 ### Pengertian Modularisasi
-• Pembuatan Program dibagi ke dalam beberapa modul.
-• Setiap modul dikembangkan untuk tujuan atau fungsi khusus.
-• Modul dibuat secara umum (general), dapat berupa fungsi atau
-prosedur.
-• Mempermudah debugging dan pengembangan program
+Pembuatan Program dibagi ke dalam beberapa modul. <p>Setiap modul dikembangkan untuk tujuan atau fungsi khusus.</p><p>Modul dibuat secara umum (general), dapat berupa fungsi atau
+prosedur.</p><p>Mempermudah debugging dan pengembangan program</p>
 ## Langkah - Langkah Praktikum
 ### Header.php
 Buatlah file baru dengan nama header.php
